@@ -1,0 +1,7 @@
+img{
+  width: 1020;
+ height: 900px;
+}
+#jelmermooi:hover{
+  border: solid blue 5px;
+}
