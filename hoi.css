@@ -1,11 +1,11 @@
 p{
   text-align: center;
-  color: red
+  color: red;
 }
 h2{
   border-radius: 20px 20px 20px 20px;
   text-align: center;
-  color: green;
+  color: black;
   background-color: red;
 }
 a{
@@ -15,17 +15,17 @@ a{
 h1{
   border-radius: 20px 20px 20px 20px;
   text-align: center;
-  color: green;
+  color: black;
   background-color: red;
 }
 h3{
   border-radius: 20px 20px 20px 20px;
 text-align: center;
-color: green;
+color: black;
 background-color: red
 }
 body{
-  background-color: #228B22;
+  background-color: black;
   }
 #aapje{
   visibility: hidden;
