@@ -1,7 +1,16 @@
-img{
-  width: 1020;
- height: 900px;
+body{
+  background-image: url("jelme.jpg");
 }
-#jelmermooi:hover{
-  border: solid blue 5px;
+ul{
+  padding: 0px;
+  border: solid 2px red;
+  background-color: black;
+  border-radius: 20px 20px 20px 20px;
+  position: fixed;
+  top: 100px;
+}
+ul li{
+  font-size: 20px;
+  font-family: 'VT323', monospace;
+  padding:10px;
 }
