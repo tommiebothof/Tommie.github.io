@@ -1,3 +1,16 @@
+ul{
+  padding: 0px;
+  border: solid 2px red;
+  background-color: black;
+  border-radius: 20px 20px 20px 20px;
+  position: fixed;
+  top: 100px;
+}
+ul li{
+  font-size: 20px;
+  font-family: 'VT323', monospace;
+  padding:10px;
+}
 p{
   text-align: center;
   color: red;
@@ -15,7 +28,7 @@ a{
 h1{
   border-radius: 20px 20px 20px 20px;
   text-align: center;
-  color: black;
+  color: green;
   background-color: red;
 }
 h3{
